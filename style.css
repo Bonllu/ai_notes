@@ -1,14 +1,9 @@
 
 
     body{
-    background: url('ai_city.png');
+    background-image: url('ai_city.png');
     background-repeat: no-repeat;
-    background: fixed;
-    background: center;
-    /*-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;*/
-    background-size: cover;
+    background-size: contain;
     }
 
 
