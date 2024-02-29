@@ -1,8 +1,23 @@
-
-
-    body{
-    background-image: url('ai_city.png');
-   
+body {
+background-image: url('ai_city.png');
     }
+#html {
+    width: 150px;
+    heght: 50px;
+    background: grey;
+}
+#ai {
+    width: 150px;
+    heght: 50px;
+    background: grey;
+}
+#python {
+    width: 150px;
+    heght: 50px;
+    background: grey;
+}
+    
+    
+    
 
 
