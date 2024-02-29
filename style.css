@@ -3,7 +3,7 @@
     body{
     background-image: url('ai_city.png');
     background-repeat: no-repeat;
-    background-size: contain, cover;
+    background-size: cover;
    
     }
 
