@@ -1,10 +1,10 @@
 
 
     body{
-    background-image: url('ai_city.png');
-    background-image: no-repeat;
-    background-image: fixed;
-    background-image: center;
+    background: url('ai_city.png');
+    background-repeat: no-repeat;
+    background: fixed;
+    background: center;
     /*-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;*/
